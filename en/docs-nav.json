@@ -1,0 +1,311 @@
+{
+  "items": [
+    {
+      "text": "Process",
+      "path": "Process/Index.md"
+    },
+    {
+      "text": "Development",
+      "path": "Development/setup.md",
+      "items": [
+        {
+          "text": "Project Structure",
+          "path": "Development/ProjectStructure.md"
+        },
+        {
+          "text": "Code Generation",
+          "path": "Development/AbpHelperCodeGen.md",
+          "items": [
+            {
+              "text": "Simple CRUD",
+              "path": "Development/ABPHelper/simpleCrud.md"
+            },
+            {
+              "text": "Mutli Table CRUD",
+              "path": "Development/ABPHelper/multiTableCrud.md"
+            }
+          ]
+        },
+        {
+          "text": "API",
+          "items": [
+            {
+              "text": "Stored Procedure",
+              "path": "Development/StoredProcedure.md"
+            },
+            {
+              "text": "Expose WebAPI",
+              "path": "Development/ExposeAPI.md"
+            }
+          ]
+        },
+        {
+          "text": "Common",
+          "items": [
+            {
+              "text": "Menu Configuration",
+              "path": "Development/MenuConfig.md"
+            },
+            {
+              "text": "Authorization & Permission",
+              "path": "Development/Authorization.md"
+            },
+            {
+              "text": "Localization",
+              "path": "Development/Localization.md"
+            },
+            {
+              "text": "Client Side Validation",
+              "path": "Development/ClientSideValidation.md"
+            },
+            {
+              "text": "Social/External Logins",
+              "path": "Development/sociallogins.md"
+            }
+          ]
+        },
+        {
+          "text": "FrontEnd",
+          "items": [
+            {
+              "text": "Styling",
+              "items": [
+                {
+                  "text": "css",
+                  "path": "Development/FrontEnd/writingCss.md"
+                }
+              ]
+            },
+            {
+              "text": "Include Extenal JS Libs (Add Full Calendar)",
+              "path": "Development/FrontEnd/fullcalendar.md"
+            },
+            {
+              "text": "Include Extenal JS Libs (Add Date & Time Picker)",
+              "path": "Development/FrontEnd/timedatepicker.md"
+            },
+            {
+              "text": "Buttons",
+              "path": "Development/Buttons.md"
+            }
+          ]
+        },
+        {
+          "text": "Testing",
+          "path": "Development/Testing.md"
+        },
+        {
+          "text": "Screens",
+          "items": [
+            {
+              "text": "ListingScreen",
+              "path": "Development/ListingScreen.md"
+            },
+            {
+              "text": "1 to N Relation",
+              "path": "Development/MultiTableRelation.md"
+            },
+            {
+              "text": "CRUD(Single Table)",
+              "path": "Development/CRUDForSingleTable.md"
+            },
+            {
+              "text": "Perform CRUD using StoredProcedure",
+              "path": "Development/CRUDbyStoredProcedure.md"
+            }
+          ]
+        },
+        {
+          "text": "User Interface",
+          "items": [
+            {
+              "text": "Navigation & Menus",
+              "path": "Development/MenuConfig.md"
+            },
+            {
+              "text": "Modals",
+              "path": "Development/UserInterface/Modals.md"
+            },
+            {
+              "text": "Forms & Validation",
+              "path": "Development/UserInterface/Forms&Validation.md"
+            },
+            {
+              "text": "DataTables",
+              "path": "Development/UserInterface/DataTables.md"
+            },
+            {
+              "text": "PageAlerts",
+              "path": "Development/UserInterface/PageAlerts.md"
+            },
+            {
+              "text": "Dynamic JavaScript API Client Proxies",
+              "path": "Development/UserInterface/JSApiProxies.md"
+            },
+            {
+              "text": "Client Side Package Management",
+              "path": "Development/UserInterface/MVCClientSidePackageMgmt.md"
+            },
+            {
+              "text": "Bundling & Minification",
+              "path": "Development/UserInterface/Bundling&Minification.md"
+            },
+            {
+              "text": "Form Elements",
+              "path": "Development/UserInterface/FormElements.md"
+            },
+            {
+              "text": "Dynamic Forms",
+              "path": "Development/UserInterface/DynamicForms.md"
+            },
+            {
+              "text": "Tool Bars",
+              "path": "Development/UserInterface/ToolBars.md"
+            },
+            {
+              "text": "Branding",
+              "path": "Development/UserInterface/Branding.md"
+            },
+            {
+              "text": "Page Header",
+              "path": "Development/UserInterface/Pageheader.md"
+            },
+            {
+              "text": "JavaScript CurrentUser API",
+              "path": "Development/UserInterface/CurrentUserAPI.md"
+            },
+            {
+              "text": "Widgets",
+              "path": "Development/UserInterface/Widgets.md"
+            }
+          ]
+        },
+        {
+          "text": "Application Modules",
+          "items": [
+            {
+              "text": "Module Creation",
+              "path": "Development/ApplicationModules/ModuleCreation.md"
+            },
+            {
+              "text": "Account Module",
+              "path": "Development/ApplicationModules/AccountModule.md"
+            },
+            {
+              "text": "Identity Management Module",
+              "path": "Development/ApplicationModules/IdentityManagement.md"
+            },
+            {
+              "text": "Identity Server Module",
+              "path": "Development/ApplicationModules/IdentityServer.md"
+            },
+            {
+              "text": "Audit Logging Module",
+              "path": "Development/ApplicationModules/AuditLogging.md"
+            },
+            {
+              "text": "Permission Management Module",
+              "path": "Development/ApplicationModules/PermissionManagement.md"
+            },
+            {
+              "text": "Settings Module",
+              "path": "Development/ApplicationModules/SettingsModule.md"
+            },
+            {
+              "text": "Virtual File Explorer Module",
+              "path": "Development/ApplicationModules/VirtualFileExplorerModule.md"
+            }
+          ]
+        },
+        {
+          "text": "Hosting",
+          "items": [
+            {
+              "text": "Publish with IIS",
+              "path": "Development/Hosting/iispublish.md"
+            }
+          ]
+        },
+        {
+          "text": "Examples",
+          "items": [
+            {
+              "text": "Feedback Management",
+              "path": "Development/Examples/FeedbackManagement.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Devops",
+      "path": "Devops/Index.md",
+      "items": [
+        {
+          "text": "AzureDevOps",
+          "items": [
+            {
+              "text": "CI Steup (.Net)",
+              "path": "Devops/AzureDevOps/CISetupDotNet.md"
+            },
+            {
+              "text": "CI Steup (React)",
+              "path": "Devops/AzureDevOps/CISetupReact.md"
+            }
+          ]
+        },
+        {
+          "text": "JIRA Integration",
+          "path": "Devops/JIRA/JIRASetup.md"
+        },
+        {
+          "text": "Service Connection",
+          "path": "Devops/ServiceConnections/ServiceConnection.md"
+        },
+        {
+          "text": "Sonarqube Integration",
+          "items": [
+            {
+              "text": "SonarQube Steup",
+              "path": "Devops/AzureDevOps/SonarQubeSetup.md"
+            },
+            {
+              "text": "How to Perform Code Quality Analysis through SonarQube",
+              "path": "Devops/SonarQube/AnalysisSetup.md"
+            }
+          ]
+        },
+        {
+          "text": "Test Project Integration",
+          "path": "Devops/TestProject/TestProjectSetup.md"
+        }
+      ]
+    },
+    {
+      "text": "ZohoCRM",     
+      "items": [
+        {
+          "text": "API Communication using Webhooks",
+          "path": "ZohoCRM/Webhook.md"
+        },
+        {
+          "text": "How to create Custom Variables?",
+          "path": "ZohoCRM/customVariables.md"
+        }
+      ]
+    },
+    {
+      "text": "TestProject",     
+      "items": [
+        {
+          "text": "Agent Setup (Test Project)",
+          "path": "AutomationTesting(TestProject)/AgentSetup.md"
+        },
+        {
+          "text": "Project Setup",
+          "path": "AutomationTesting(TestProject)/TestProjectDoc.md"
+        }
+      ]
+    }
+  ]
+}
