@@ -295,15 +295,35 @@
       ]
     },
     {
-      "text": "TestProject",     
+      "text": "TestProject",
       "items": [
         {
           "text": "Agent Setup (Test Project)",
           "path": "AutomationTesting(TestProject)/AgentSetup.md"
         },
         {
-          "text": "Project Setup",
-          "path": "AutomationTesting(TestProject)/TestProjectDoc.md"
+          "text": "Create  A Web Test",
+          "path": "AutomationTesting(TestProject)/CreateAWebTest.md"
+        },
+        {
+          "text": "Finding And Using Elements",
+          "path": "AutomationTesting(TestProject)/FindingAndUsingElements.md"
+        },
+        {
+          "text": "Parameterize Tests",
+          "path": "AutomationTesting(TestProject)/ParameterizeTests.md"
+        },
+        {
+          "text": "Setup A Condition",
+          "path": "AutomationTesting(TestProject)/SetupaCondition.md"
+        },
+        {
+          "text": "Install and Use Addons",
+          "path": "AutomationTesting(TestProject)/AddAddon.md"
+        },
+        {
+          "text": "How to Use Test Step Editor",
+          "path": "AutomationTesting(TestProject)/TestStepWidget.md"
         }
       ]
     }
