@@ -308,8 +308,7 @@ Your CD release pipeline picks up the artifacts published by your CI build and t
 
 4. If you created your new release pipeline from a build summary, check that the build pipeline and artifact is shown in the `Artifacts` section on the `Pipeline` tab. If you created a new release pipeline from the `Releases` tab, choose the `+ Add` link and select your build artifact.
 
-    ![Alt text](../AzureDevOps/_images/Artifact
-    .png)
+    ![Alt text](../AzureDevOps/_images/Artifact.png)
 
 5. Choose the `Continuous deployment` icon in the `Artifacts` section, check that the continuous deployment trigger is enabled, and add a filter to include the `main` branch.
 

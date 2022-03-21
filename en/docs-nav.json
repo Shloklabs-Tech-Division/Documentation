@@ -295,6 +295,28 @@
       ]
     },
     {
+      "text": "Talent Assessment Portal",     
+      "items": [
+        {
+          "text": "Schedule a Test",
+          "path": "TalentAssessmentPortal/ScheduleATest.md"
+        }
+      ]
+    },
+    {
+      "text": "Project Audits with PI",     
+      "items": [
+        {
+          "text": "Report Configuration for Inspection",
+          "path": "ProjectAuditswithPI/ReportConfiguration.md"
+        },
+        {
+          "text": "Schedule Audits",
+          "path": "ProjectAuditswithPI/ScheduleAudits.md"
+        }
+      ]
+    },
+    {
       "text": "TestProject",
       "items": [
         {
