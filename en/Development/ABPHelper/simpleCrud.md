@@ -37,7 +37,7 @@ namespace RadContest.Consultants
 
  > Open the terminal on root of the project or developer command prompt.
 
-![alt text](..\\_images\devcmdprmpt.png)
+![alt text](../_images/devcmdprmpt.png)
 
  Now run the following command.
 
@@ -64,7 +64,7 @@ dotnet ef migrations add Added_RadContest_Entity
 
 Run the `RadContest.DbMigrator` application to update the database:
 
-![alt text](..\\_images\UpdateDatabaseMigration.png)
+![alt text](../_images/UpdateDatabaseMigration.png)
 
 .DbMigrator is a console application that can be run to migrate the database schema and seed the data on development and production environments.
 
