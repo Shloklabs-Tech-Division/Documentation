@@ -49,3 +49,5 @@
 ### Step 5 : Result.
 
 ![Alt text](../_images/Hosting/result.png)
+
+>If the Authentication/Login is not working in hosted project, change the app settings auth server url to your ip address before build 
