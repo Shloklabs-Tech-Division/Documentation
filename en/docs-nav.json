@@ -352,6 +352,28 @@
           "path": "AutomationTesting(TestProject)/TestStepWidget.md"
         }
       ]
+    },
+    {
+      "text": "Flutter",     
+      "items": [
+        {
+          "text": "Best Practices",
+          "items": [
+            {
+              "text": "App Colors",
+              "path": "Flutter/Best_Practices/App_Colors/AppColors.md"
+            },
+            {
+              "text": "App Font Family",
+              "path": "Flutter/Best_Practices/App_Font/AppFont.md"
+            },
+            {
+              "text": "API",
+              "path":"Flutter/Best_Practices/App_Font/AppFont.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
