@@ -354,6 +354,19 @@
       ]
     },
     {
+      "text": "Smart Grinder BO - ABP",
+      "items": [
+        {
+          "text": "Development",
+          "path": "SmartGrinderBO-ABP/Development.md"
+        },
+        {
+          "text": "Errors & Fixes",
+          "path": "SmartGrinderBO-ABP/ErrorsAndFixes.md"
+        }
+      ]
+    },
+    {
       "text": "Flutter",     
       "items": [
         {
