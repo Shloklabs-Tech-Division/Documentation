@@ -3,7 +3,7 @@ Custom App Fonts are the generic static variables which will store the custom fo
 
 ## How to create a custom app fonts
 
-- 1. Create a class file as `AppFontss`.
+- 1. Create a class file as `AppFonts`.
 
 - 2. Create static variables and assign the font family to it. Refer the below image.
 
