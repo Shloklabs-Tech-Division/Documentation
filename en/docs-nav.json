@@ -381,10 +381,14 @@
               "path": "Flutter/Best_Practices/App_Font/AppFont.md"
             },
             {
+              "text": "App Theme",
+              "path": "Flutter/Best_Practices/App_Theme/AppTheme.md"
+            },
+            {
               "text": "API",
               "items":[
                 {
-                  "text": "Api Service Call",
+                  "text": "Api Service",
                   "path":"Flutter/Best_Practices/API/ApiServices.md"
                 },
                 {
