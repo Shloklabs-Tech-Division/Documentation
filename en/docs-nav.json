@@ -384,6 +384,11 @@
               "text": "App Theme",
               "path": "Flutter/Best_Practices/App_Theme/AppTheme.md"
             },
+            
+            {
+              "text": "Dimensions",
+              "path": "Flutter/Best_Practices/Dimensions/Dimens.md"
+            },
             {
               "text": "API",
               "items":[
@@ -397,6 +402,16 @@
                 }
               ]
             }
+          ]
+        },
+        {
+          "text": "Android",
+          "items": [
+            {
+              "text": "Android Run & Build",
+              "path": "Flutter/Android/Run_Build.md"
+            }
+           
           ]
         },
         {

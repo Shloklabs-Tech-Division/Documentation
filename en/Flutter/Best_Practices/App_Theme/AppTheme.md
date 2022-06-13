@@ -1,5 +1,5 @@
 # Custom App Theme
-Custom App Theme are the generic static variables which will store the custom theme. So it will reduce the redency of the code. 
+Custom App Theme are the generic static variables which will store the custom theme. So it will reduce the redundancy of the code. 
 
 ## How to create a custom app theme
 
