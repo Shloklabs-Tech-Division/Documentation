@@ -1,6 +1,14 @@
 # HTTP API Services
 HTTP API services are used to make api calls in Flutter applications. To make api calls api plug-ins are used.
 
+## Why to use HTTP API services.
+
+- It's good practice to maintain the API services seperately. So it will be easy to access. 
+
+- If a user is working in design part and other in api part, by maintaining the API service seperately will reduce the code conflict and also reduces the dependency from each other.
+
+- With the help of `http` package, the REST API calls can be done. 
+
 ## Prerequiste
 
 - 1. Install the latest version `http` plugin from Pub dev.
