@@ -1,6 +1,16 @@
 # Custom App Colors
 Custom App Colors are the generic static variables which will store the custom colors. So the system need not to repaint the again and again while using the colors inside application.
 
+## Why to use App colors
+
+-  By determining the app colors generically will reduce the redundancy of the code.
+
+- System does not need to repaint the colors again again inside the application each and everytime while the Color code is used.
+
+- This will increase the performance of the application.
+
+- By using the static constant variable which stores the color will improve the efficiency of application along with an optimized code.
+
 ## How to create a custom app colors
 
 - 1. Create a class file as `AppColors`.

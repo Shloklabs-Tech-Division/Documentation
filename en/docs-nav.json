@@ -400,6 +400,11 @@
               "text": "App Theme",
               "path": "Flutter/Best_Practices/App_Theme/AppTheme.md"
             },
+            
+            {
+              "text": "Dimensions",
+              "path": "Flutter/Best_Practices/Dimensions/Dimens.md"
+            },
             {
               "text": "API",
               "items":[
@@ -413,6 +418,20 @@
                 }
               ]
             }
+          ]
+        },
+        {
+          "text": "How to Create New Screen",
+          "path": "Flutter/Screen/New_Screen.md"
+        },
+        {
+          "text": "Android",
+          "items": [
+            {
+              "text": "Android Run & Build",
+              "path": "Flutter/Android/Run_Build.md"
+            }
+           
           ]
         },
         {

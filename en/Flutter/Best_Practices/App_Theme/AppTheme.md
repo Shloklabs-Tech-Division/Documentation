@@ -1,5 +1,15 @@
 # Custom App Theme
-Custom App Theme are the generic static variables which will store the custom theme. So it will reduce the redency of the code. 
+Custom App Theme are the generic static variables which will store the custom theme. So it will reduce the redundancy of the code. 
+
+## Why to use App Theme
+
+-  By determining the app themes generically will reduce the redundancy of the code.
+
+- This will increase the stability of the code and will have a standardization.
+
+- Need not to repeat the `TextStyle` and other themes inside the widgets. We can determine the generic themes in this App theme part and it can be used. 
+
+- This will increase the performance of the application more and reduce the number of line in code. Which will make the code much readable.
 
 ## How to create a custom app theme
 
