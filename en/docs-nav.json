@@ -363,6 +363,22 @@
         {
           "text": "Errors & Fixes",
           "path": "SmartGrinderBO-ABP/ErrorsAndFixes.md"
+        },
+        {
+          "text": "Excel Import & Export in ABP",
+          "path": "SmartGrinderBO-ABP/ExcelImportExport.md"
+        },
+        {
+          "text": "QR Code Modal in ABP",
+          "path": "SmartGrinderBO-ABP/QRCodeModal.md"
+        },
+        {
+          "text": "Apply Migrations Automatically",
+          "path": "SmartGrinderBO-ABP/ApplyMigrationsAutomatically.md"
+        },
+        {
+          "text": "Create Background Worker",
+          "path": "SmartGrinderBO-ABP/BackgroundWorker.md"
         }
       ]
     },

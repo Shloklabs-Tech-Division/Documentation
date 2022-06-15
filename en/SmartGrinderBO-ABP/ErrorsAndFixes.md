@@ -15,7 +15,11 @@ Any overridding on style components should be made in `custom.css` file with `!i
 
 ### 2. Solution for `Custom RazorPage / Modal Page Creation`
 
-If CLI is used for Entity Creation , Always Create Razor Pages separately from auto generated Files.
+If we are linking another new model, then create Razor page within the CLI generated Entity folder.
+
+![Alt text](../SmartGrinderBO-ABP/_images/razorpage.png)
+
+If we are building query string or link , Always Create Razor Pages separately from auto generated Files.
 
 ![Alt text](../SmartGrinderBO-ABP/_images/CustomModals.png)
 
