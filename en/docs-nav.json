@@ -405,6 +405,10 @@
           ]
         },
         {
+          "text": "How to Create New Screen",
+          "path": "Flutter/Screen/New_Screen.md"
+        },
+        {
           "text": "Android",
           "items": [
             {
