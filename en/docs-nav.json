@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "text": "Shlok Framework",
+      "items": [
+        {
+          "text": "Abp Shlok",
+          "path": "Shlok-Framework/abp-shlok/Index.md"
+        }
+      ]
+    },
+    {
       "text": "Process",
       "path": "Process/Index.md"
     },
